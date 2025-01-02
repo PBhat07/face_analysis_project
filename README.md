@@ -19,19 +19,27 @@ Clone this repository to your local machine:
  ```bash
 git clone https://github.com/PBhat07/face_analysis_project.git
 cd face_analysis_project
+ ```bash
 
 ### 2. Setup virtual environment
+ ```bash
 # Create virtual environment
 python3 -m venv venv
+ 
 
 # Activate virtual environment (Linux/Mac)
 source venv/bin/activate
+ ```bash
 
 ### 3.Install Required Dependencies
+ ```bash
 pip install opencv-python mediapipe numpy flask psutil
+ ```bash
 
 ### 4. Run the application
+ ```bash
 python app.py
+ ```bash
 
 
 
