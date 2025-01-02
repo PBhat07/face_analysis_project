@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 git clone https://github.com/PBhat07/face_analysis_project.git
-cd face_analysis_project
+#cd face_analysis_project
 
 ### 2. Setup virtual environment
 # Create virtual environment
