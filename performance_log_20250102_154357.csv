@@ -1,0 +1,20 @@
+timestamp,cpu_percent,memory_mb,blink_count,frown_count,too_close_count,fps,latency
+1735832637.3802552,5528.3,305.5234375,0,0,0,0,0
+1735832638.381448,10.0,320.4765625,0,0,0,0,0
+1735832639.3827333,11.0,324.671875,0,0,0,0,0
+1735832640.384096,6.0,324.69140625,0,0,0,0,0
+1735832641.385374,11.0,324.7109375,0,0,0,0,0
+1735832642.3867319,13.0,324.7109375,0,0,0,0,0
+
+Summary:
+Blinks Detected: 0
+Frowns Detected: 46
+Too Close Count: 0
+Precision (Blink): 0.00
+Recall (Blink): 0.00
+Precision (Frown): 23.00
+Recall (Frown): 23.00
+Precision (Too Close): 0.00
+Recall (Too Close): 0.00
+Average FPS: 7.65
+Total Latency: 384.33 ms

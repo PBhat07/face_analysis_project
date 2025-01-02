@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Analysis Metrics</title>
+</head>
+<body>
+    <h1>Face Analysis</h1>
+    <video id="video" autoplay playsinline></video>
+    <canvas id="canvas" width="640" height="480" style="display: none;"></canvas>
+    <div>
+        <h2>Metrics</h2>
+        <p id="blinks">Blinks: 0</p>
+        <p id="frowns">Frowns: 0</p>
+        <p id="too_close">Too Close: 0</p>
+        <p id="fps">FPS: 0</p>
+        <p id="latency">Latency: 0 ms</p>
+        <h2>Precision and Recall</h2>
+        <p id="precision">Precision: 0</p>
+        <p id="recall">Recall: 0</p>
+        <p id="accuracy">Accuracy: 0</p>
+    </div>
+    <button id="start">Start Capture</button>
+    <button id="stop">Stop Capture</button>
+    <script src="/static/script.js"></script>
+</body>
+</html>
