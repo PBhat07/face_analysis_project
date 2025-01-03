@@ -41,6 +41,13 @@ pip install opencv-python mediapipe numpy flask psutil
 python app.py
  ```
 
+## 5. System Configuration
+
+- **CPU Model**: Intel(R) Core(TM) i7-12700H, 2.30 GHz (12th Gen)
+- **CPU Core Count**: 14 cores (6 performance cores and 8 efficiency cores)
+- **OS**: Windows 11 Home, Version 23H2 (OS build 22631.4460)
+- **RAM**: 16.0 GB (15.6 GB usable)
+
 
 
 
