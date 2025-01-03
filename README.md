@@ -92,7 +92,6 @@ To ensure the smooth performance of the Face Analysis application, various optim
    - **Efficient Frame Processing Optimization**: Frame rate processing was adjusted to process every nth frame to reduce computational load.
    - **GPU Acceleration for Inference (Optional)**: GPU acceleration can be used with frameworks like **TensorFlow Lite** to speed up real-time inference.
    - **Custom AI Models**: In the future, we could develop **custom models** specifically tuned to our needs (e.g., blinking, frown detection), improving accuracy while maintaining performance.
-   - **Cloud Integration for Scalability**: By integrating the system with cloud computing resources, we can offload heavy processing and enable real-time monitoring across multiple users or sessions without taxing the local machine.
    - **Advanced Profiling Tools**: Implementing more detailed **profiling tools** could provide deeper insights into system bottlenecks, helping to optimize the performance further based on the exact areas of inefficiency.
 
 ---
